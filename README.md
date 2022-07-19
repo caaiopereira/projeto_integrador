@@ -1,5 +1,5 @@
 # PROJETO-BIBLIOTECA
-Projeto Intregador - criação de um site dinâmico.
+Projeto Intregador - Desenvolver Sistema Corporativo
 
 Técnico em informática Turma 2021.2
 
