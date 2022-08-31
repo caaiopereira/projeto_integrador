@@ -1,4 +1,4 @@
-# PROJETO-BIBLIOTECA
+# BIBLIOTECA
 Técnico em informática Turma 2021.2
     
     Utilizado Netbeans 8.2
