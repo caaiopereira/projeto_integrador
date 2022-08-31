@@ -11,4 +11,5 @@
     A senha é criada utilizando um hash de criptografia MD5
 
 Grupo: Caio Pereira, Khadija Nascimento, Danilo Freitas e Vitor Miranda.
-Técnico em informática Turma 2021.2
+
+Técnico em informática - Turma 2021.2
